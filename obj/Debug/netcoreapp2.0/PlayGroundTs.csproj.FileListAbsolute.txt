@@ -1,0 +1,11 @@
+/Code/git/ajzeffer/PlayGroundTs/bin/Debug/netcoreapp2.0/PlayGroundTs.deps.json
+/Code/git/ajzeffer/PlayGroundTs/bin/Debug/netcoreapp2.0/PlayGroundTs.runtimeconfig.json
+/Code/git/ajzeffer/PlayGroundTs/bin/Debug/netcoreapp2.0/PlayGroundTs.runtimeconfig.dev.json
+/Code/git/ajzeffer/PlayGroundTs/bin/Debug/netcoreapp2.0/PlayGroundTs.dll
+/Code/git/ajzeffer/PlayGroundTs/bin/Debug/netcoreapp2.0/PlayGroundTs.pdb
+/Code/git/ajzeffer/PlayGroundTs/obj/Debug/netcoreapp2.0/PlayGroundTs.csprojResolveAssemblyReference.cache
+/Code/git/ajzeffer/PlayGroundTs/obj/Debug/netcoreapp2.0/PlayGroundTs.csproj.CoreCompileInputs.cache
+/Code/git/ajzeffer/PlayGroundTs/obj/Debug/netcoreapp2.0/PlayGroundTs.AssemblyInfoInputs.cache
+/Code/git/ajzeffer/PlayGroundTs/obj/Debug/netcoreapp2.0/PlayGroundTs.AssemblyInfo.cs
+/Code/git/ajzeffer/PlayGroundTs/obj/Debug/netcoreapp2.0/PlayGroundTs.dll
+/Code/git/ajzeffer/PlayGroundTs/obj/Debug/netcoreapp2.0/PlayGroundTs.pdb
